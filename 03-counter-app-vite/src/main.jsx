@@ -8,7 +8,7 @@ import './styles.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        {/*<CounterApp value={67} />*/}
-        <FirstApp title='Hola, soy Veguetta'></FirstApp>
+        <CounterApp value={67} />
+        {/*<FirstApp title='Hola, soy Veguetta'></FirstApp>*/}
     </React.StrictMode>
 );
