@@ -14,7 +14,7 @@ export const GifExpertApp = () => {
         // setCategories( cat => [...cat, "Valorant"]);
 
     }
-
+//cambio secreto xd
     return(
         <>
             <h1>GifExpertApp</h1>
